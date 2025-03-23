@@ -1,0 +1,4 @@
+outboard_repository=KidVizious/skeletyl-xiao-module
+outboard_ref=main
+outboard_from=boards/shields/skeletyl-xiao
+outboard_to=boards/shields/skeletyl-xiao
